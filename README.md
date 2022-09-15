@@ -1,9 +1,6 @@
-# NDIFADHIL.github.io
+# kessy23.github.io
 ZIP archive IT
 
-Tugas :
-- Membuat website wordpress dengan databasenya (mysql)
+Tugas Keamanan Basis Data:
+- Membuat website wordpress dengan databasenya (terpisah) , dan menjelaskan kegunaan query union,select, wait, dan (--)
 
-- Membuat website wordpress dengan database terpisah ( 3 website)
-
-- Jelaskan kegunaan antara union, select, wait dan -- .
